@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Catherine Chen, a consultant at Mastercard - Applied Predictive Technologies (APT) and a Class of 2020 grad from Wharton where I studied Business Analytics, Marketing & Operations Management
-- 👀 I’m interested in sustainability, tennis, NYCHA and youth development
+- 👀 I’m interested in sustainability, tennis, educating youths in New York public housing
 - 🌱 I live in SQL at work and put R/Python into use with my non-profit work
-- 💞️ I’m looking to collaborate on climate modeling, New York urban development data, and A/B testing ideas
+- 💞️ I’m looking to collaborate on climate modeling and New York urban development data
 - 📫 Drop me a line at catherinezrchen@gmail.com
 
 <!---
